@@ -56,4 +56,6 @@ https://raw.githubusercontent.com/TrustWallet/tokens/master/tokens/0x006bea43baa
 ## Used in Applications
 - [Trust Wallet](https://trustwallet.com) - iOS and Android 
 - [0x Tracker](https://0xtracker.com) - The 0x Protocol Trade Explorer and news aggregator.
+This project is tested with BrowserStack.
+
 
